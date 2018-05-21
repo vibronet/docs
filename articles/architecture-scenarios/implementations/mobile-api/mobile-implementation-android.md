@@ -2,6 +2,13 @@
 description: The Android implementation of the API for the Mobile + API architecture scenario
 url: /architecture-scenarios/application/mobile-api/mobile-implementation-android
 toc: true
+tags:
+  - mobile-apps
+  - api-auth
+  - android
+  - architecture
+  - authorization-code
+  - pkce
 ---
 
 # Mobile + API: Android Implementation for the Mobile App
